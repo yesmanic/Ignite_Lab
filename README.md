@@ -24,7 +24,7 @@ This project is an educational platform for events purposes made for teachers an
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
