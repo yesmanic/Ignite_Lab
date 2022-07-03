@@ -17,7 +17,7 @@ This project is an educational platform for events purposes made for teachers an
 
 ### Built With
 
-* [Next.js](https://nextjs.org)
+* [Vite](https://vitejs.dev)
 * [React.js](https://reactjs.org)
 * [TailwindsCSS](https://tailwindcss.com)
 * [GraphQL](https://graphql.org)
